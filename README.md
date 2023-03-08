@@ -1,3 +1,21 @@
+
+# Notflix 
+
+### The Netflix Clone 
+
+This project was a test of my ReactJS, Redux and Firebase Skills. I wanted to mimic a site like Netflix while still giving a pretty obvious apperance of not being exact. I currently use this to show seniors how easy it is to be duped online, and what to look outfor when visiting websites. I had a lot of fun making this project and expect to do a lot more in the near future!
+
+### How to Use
+
+If you want to use this code your self, feel free. You have to create your own Swipe Account as well as a Firebase account to use as is. They need specific API keys as well as an app key for Firebase. Easiest way to get up and running is to create your own keys.js file, then ass the API_KEY from Swipe (Private Key), firebaseApiKey and firebaseAppId from Firebase as const variables to the file and export all of them. 
+
+Thank you for your time!
+
+
+
+<b>Boiler Plate ReactJS / Redux stuff below</b>
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
