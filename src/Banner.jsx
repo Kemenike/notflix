@@ -20,7 +20,6 @@ function Banner () {
         fetchData();
     }, [])
 
-    console.log(movie);
 
     function truncate(string, n) {
         //n = limit
